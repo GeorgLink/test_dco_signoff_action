@@ -1,4 +1,4 @@
-# Test DCO Signoff automation with GitHub Actions
+# Test DCO Signoff Automation with GitHub Actions
 
 This is the first time I activated the DCO bot.
 
