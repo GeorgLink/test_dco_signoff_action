@@ -1,2 +1,3 @@
-# test_dco_signoff_action
-Testing GitHub action for automated DCO signoff
+# Testing DCO Signoff Automation using GitHub Actions
+
+Thank you to Brian Douglas for working on this.
