@@ -1,2 +1,7 @@
-# test_dco_signoff_action
-Testing GitHub action for automated DCO signoff
+# Test DCO Signoff Automation with GitHub Actions
+
+This is the first time I activated the DCO bot.
+
+I will create a second commit before creating the PR.
+
+Thanks to Brian Douglas for helping with this.
